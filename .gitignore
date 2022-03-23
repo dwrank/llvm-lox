@@ -3,6 +3,9 @@
 .*~
 *.swp
 .*.swp
+cscope.out
+cscope.files
+tags
 
 # Prerequisites
 *.d
